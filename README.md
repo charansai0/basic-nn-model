@@ -110,8 +110,9 @@ model.predict(X_n1_1 value)
 ~~~
 
 ## Dataset Information
-<img width="206" alt="261372674-7d583125-408c-4747-afcb-b2ed31ac29d0" src="https://github.com/charansai0/basic-nn-model/assets/94296221/c13909f2-d804-4de0-9146-52fd70156b79">
 
+
+<img width="149" alt="dl-1" src="https://github.com/charansai0/basic-nn-model/assets/94296221/10f00895-429c-4424-868a-807c48accddc">
 
 
 ## OUTPUT
@@ -119,16 +120,19 @@ model.predict(X_n1_1 value)
 ### Training Loss Vs Iteration Plot
 
 
-<img width="416" alt="261373196-d6bf7fe9-a9d6-4dd5-a90f-da1b560d9cc1" src="https://github.com/charansai0/basic-nn-model/assets/94296221/6d742fbd-7ba2-48f9-8e1c-8a86ebfd6c99">
+
+<img width="359" alt="dl-g" src="https://github.com/charansai0/basic-nn-model/assets/94296221/aca785b4-8dbe-4490-adfb-7c1274fec888">
 
 
 ### Test Data Root Mean Squared Error
-<img width="410" alt="261373610-fdff8d7f-65d5-4648-963f-ab3a9e9b80e2" src="https://github.com/charansai0/basic-nn-model/assets/94296221/e48191a1-632f-40b5-a59c-1657e56a6fd1">
+<img width="323" alt="dl-2" src="https://github.com/charansai0/basic-nn-model/assets/94296221/9c299477-b826-4a3f-8278-a9026bd525b4">
+
 
 
 ### New Sample Data Prediction
-<img width="344" alt="261373908-38cbb6a6-7224-41bd-8863-799479da9e35" src="https://github.com/charansai0/basic-nn-model/assets/94296221/876dda7c-0718-4c9b-8011-d260f5bd9f2d">
 
+
+<img width="239" alt="dl-3" src="https://github.com/charansai0/basic-nn-model/assets/94296221/c4c98b74-0da6-4248-b124-741911647863">
 
 
 ## RESULT
