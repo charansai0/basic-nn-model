@@ -112,7 +112,7 @@ model.predict(X_n1_1 value)
 ## Dataset Information
 
 
-<img width="149" alt="dl-1" src="https://github.com/charansai0/basic-nn-model/assets/94296221/10f00895-429c-4424-868a-807c48accddc">
+![output](?raw=true)
 
 
 ## OUTPUT
