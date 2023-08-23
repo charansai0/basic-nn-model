@@ -63,7 +63,7 @@ from tensorflow.keras.layers import Dense
 auth.authenticate_user()
 creds, _ = default()
 gc = gspread.authorize(creds)
-worksheet = gc.open('StudentsData').sheet1
+worksheet = gc.open('ex1').sheet1
 rows = worksheet.get_all_values()
 df = pd.DataFrame(rows[1:], columns=rows[0])
 df = df.astype({'INPUT':'float'})
