@@ -11,12 +11,11 @@ In this basic NN Model, we have used "relu" activation function in input and hid
 
 
 ## Neural Network Model
-
-![Uploading nn.png…]()
+![output](?raw=true)
 
 
 ## DESIGN STEPS
-
+ 
 ### STEP 1:
 
 Loading the dataset
