@@ -135,7 +135,7 @@ model.predict(X_n1_1 value)
 ### New Sample Data Prediction
 
 
-![image](https://github.com/charansai0/basic-nn-model/assets/94296221/0b263430-1e7d-4c2b-bebd-ae4ef441a485)
+<img width="239" alt="dl-3" src="https://github.com/charansai0/basic-nn-model/assets/94296221/694b3ccd-40cd-4a7d-bd92-8fe8afbdf50c">
 
 
 
